@@ -1,0 +1,11 @@
+####################
+links ::
+
+Sendgrid SMTP relay configuration ::
+https://sendgrid.com/solutions/smtp-service/
+
+sendgrid SMTP configuration test ::
+https://sendgrid.com/docs/for-developers/sending-email/getting-started-smtp/
+
+sendgrid API key management ::
+https://sendgrid.com/docs/ui/account-and-settings/api-keys/#editing-an-api-key
